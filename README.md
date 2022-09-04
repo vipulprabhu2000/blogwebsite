@@ -55,3 +55,10 @@ Supporting the Development of Django
 Django's development depends on your contributions. 
 
 If you depend on Django, remember to support the Django Software Foundation: https://www.djangoproject.com/fundraising/
+
+Database Used sqlite
+
+
+Layout
+![Screenshot 2022-09-04 120627](https://user-images.githubusercontent.com/71282503/188300820-e0617562-d8db-4abd-99a8-9e5e607e731a.png)
+
